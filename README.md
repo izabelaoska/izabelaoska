@@ -6,4 +6,4 @@
 - 🤔 I’m currently learning Next.js!
 - 📫 You can find me on [LinkedIn](https://www.linkedin.com/in/izabela-oska-3b59b191/). 
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love cooking, creating a dish is just like building with code - step by step!
+- ⚡ Fun fact: I love cooking, creating a dish is just like building with code!
